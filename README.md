@@ -1,1 +1,1 @@
-# Competitive-coding
+# CodeChef
